@@ -1,0 +1,14 @@
+[
+  {"id": 1,  "question": "What was total revenue in January 2025?",                     "expect": "ANSWERED", "value": 355.0},
+  {"id": 2,  "question": "What was total revenue in February 2025?",                    "expect": "ANSWERED", "value": 534.0},
+  {"id": 3,  "question": "What was total revenue in March 2025?",                       "expect": "ANSWERED", "value": 451.0},
+  {"id": 4,  "question": "What was total revenue in Q1 2025?",                          "expect": "ANSWERED", "value": 1340.0},
+  {"id": 5,  "question": "What was net revenue in Q1 2025 after refunds?",              "expect": "ANSWERED", "value": 1280.0},
+  {"id": 6,  "question": "How many unique customers placed completed orders?",          "expect": "ANSWERED", "value": 7.0},
+  {"id": 7,  "question": "How many orders are in the dataset?",                          "expect": "ANSWERED", "value": 16.0},
+  {"id": 8,  "question": "How many customers are from India?",                           "expect": "ANSWERED", "value": 2.0},
+  {"id": 9,  "question": "What was the profit margin in Q1 2025?",                       "expect": "REFUSED"},
+  {"id": 10, "question": "What was total revenue in 2026?",                              "expect": "REFUSED"},
+  {"id": 11, "question": "What is the average order value of customer C99?",             "expect": "REFUSED"},
+  {"id": 12, "question": "Who is our best customer?",                                    "expect": "NEEDS_CLARIFICATION"}
+]

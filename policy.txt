@@ -1,0 +1,6 @@
+BUSINESS RULES
+1. Revenue means orders with status 'completed' only. Cancelled orders are not revenue.
+2. Gross revenue = sum of completed orders in USD. Net revenue = gross revenue minus VALID refunds.
+3. A refund is valid only if its order exists, the order is completed, and the refund is not larger than the order.
+4. All money is reported in USD. EUR orders are converted with the monthly rate in rates.csv.
+5. Quarter 1 means January, February and March 2025.

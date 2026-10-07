@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+# Install ONLY the one for the LLM you chose (see README):
+# google-genai     -> LLM_PROVIDER=gemini
+# groq             -> LLM_PROVIDER=groq
+# anthropic        -> LLM_PROVIDER=anthropic
